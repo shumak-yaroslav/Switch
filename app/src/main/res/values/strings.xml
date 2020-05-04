@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UserChange</string>
+    <string name="app_description">You should allow ChangeUsers to switch!</string>
+</resources>
